@@ -4,7 +4,7 @@
 #
 Name     : mvn-ezmorph
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://downloads.sourceforge.net/project/ezmorph/ezmorph/ezmorph-1.0.6/ezmorph-1.0.6-sources.jar
 Source0  : https://downloads.sourceforge.net/project/ezmorph/ezmorph/ezmorph-1.0.6/ezmorph-1.0.6-sources.jar
 Source1  : https://repo.gradle.org/gradle/libs-releases/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar
